@@ -245,4 +245,4 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Rahul Kushwaha**
+**Khushi sharma**
